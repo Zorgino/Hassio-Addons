@@ -48,7 +48,7 @@
       "crop_x2": "int?",
       "crop_y1": "int?",
       "crop_y2": "int?",
-      "autoCrop": "int"
+      "autoCrop": "int?"
     },
     "mapDataTopic": "str",
     "minMillisecondsBetweenMapUpdates": "int",
